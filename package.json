@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://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@github.com/wofakouadio/nodejs-mysql.git"
+    "url": "git+https://github.com/wofakouadio/nodejs-mysql.git"
   },
   "author": "",
   "license": "ISC",
